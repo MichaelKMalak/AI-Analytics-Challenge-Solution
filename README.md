@@ -9,4 +9,8 @@ AModel is a machine learning classifier that classifies the issues by each node.
 The dataset is not shared as requested. There are two files: one is the input for the AModel and the other is the ouput of the AModel.
 
 ## Technologies/libraries used in solution
-ipython notebooks, pandas, scikitlearn, matplotlib, keras.
+* ipython notebooks
+* pandas
+* scikitlearn
+* matplotlib
+* keras
